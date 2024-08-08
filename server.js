@@ -22,7 +22,7 @@ app.post("/", (req, res) => {
     service: "gmail",
     auth: {
       user: "Gracefullbody@gmail.com",
-      pass: "mtnjrzznkwyjqjsc",
+      //pass: "mtnjrzznkwyjqjsc",
     },
   });
 
